@@ -4,5 +4,5 @@ using namespace std;
 int main ()
 {
 	setlocale (LC_ALL, "Russian");
-	cout << "Helllo";
+	cout << "Helllo,apples";
 	return 0;
