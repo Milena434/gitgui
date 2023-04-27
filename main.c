@@ -5,8 +5,12 @@ int main ()
 {
 	setlocale (LC_ALL, "Russian");
 <<<<<<< HEAD
+<<<<<<< HEAD
 	cout << "Helllo,friend";
 =======
 	cout << "Helllo,apples";
 >>>>>>> 4b90508bb69b8a7c35ba4e5dc8c9c5acdcd9c0e7
+=======
+	cout << "Helllo";
+>>>>>>> parent of 4b90508 (Changed an exiting file)
 	return 0;
